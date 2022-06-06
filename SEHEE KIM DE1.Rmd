@@ -6,7 +6,7 @@ header-includes:
   - \usepackage{lastpage}
   - \usepackage{fancyhdr}
   - \pagestyle{fancy}
-  - \fancyhead[CO, CE]{SEHEE KIM, 1002403598}
+  - \fancyhead[CO, CE]{SEHEE KIM}
   - \fancyfoot[CO, CE]{\thepage \ of \pageref{LastPage}}
 ---
 
